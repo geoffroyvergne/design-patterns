@@ -1,61 +1,61 @@
-# Design PAtterns
+# Design Patterns
 
-##Interfaces
+## Interfaces
 
-###ADAPTER
+### ADAPTER
 
-###FACADE
+### FACADE
 
-###COMPOSITE
+### COMPOSITE
 
-###BRIDGE
+### BRIDGE
 
-###FILTER
+### FILTER
 
-##Responsability
+## Responsability
 
-###SINGLETON
+### SINGLETON
 
-###OBSERVER
+### OBSERVER
 
-###MEDIATOR
+### MEDIATOR
 
-###PROXY
+### PROXY
 
-###CHAIN OF RESPONSABILITY
+### CHAIN OF RESPONSABILITY
 
-###FLYWEIGHT
+### FLYWEIGHT
 
-##Construction
+## Construction
 
-###BUILDER
+### BUILDER
 
-###FACTORY METHOD
+### FACTORY METHOD
 
-###ABSTRACT FACTORY
+### ABSTRACT FACTORY
 
-###PROTOTYPE
+### PROTOTYPE
 
-###MEMENTO
+### MEMENTO
 
-###MVC
+### MVC
 
-##Operation
+## Operation
 
-###TEMPLATE METHOD
+### TEMPLATE METHOD
 
-###STATE
+### STATE
 
-###STRATEGY
+### STRATEGY
 
-###COMMAND
+### COMMAND
 
-###INTERPRETER
+### INTERPRETER
 
-##Extention
+## Extention
 
-###DECORATOR
+### DECORATOR
 
-###ITERATOR
+### ITERATOR
 
-###VISITOR
+### VISITOR
